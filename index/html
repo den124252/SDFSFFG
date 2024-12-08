@@ -1,0 +1,76 @@
+<html>
+    
+        <head>
+            <title>
+                <link rel="stylesheet" href="styles.css">
+                </title>
+                </head>
+                <body>
+                    <header>
+    <h1>Fisch</h1>
+    <h2>fisch is very good game to play with friends
+
+    </h2>
+    <img src="https://learn.logikaschool.com/uploads/student/3129169/674c9604ba4f9.png">
+    <img src="https://learn.logikaschool.com/uploads/student/3129169/674c9420bae69.png">
+    <img src="https://learn.logikaschool.com/uploads/student/3129169/674c955e31170.png">
+    <img src="https://learn.logikaschool.com/uploads/student/3129169/674c95afb84ea.png">
+    <img src="https://learn.logikaschool.com/uploads/student/3129169/674c966f39186.png">
+    <img src="https://learn.logikaschool.com/uploads/student/3129169/674c96d78f775.png">
+    <img src="https://learn.logikaschool.com/uploads/student/3129169/674c9777a1b4e.png">
+    </header>
+    <main>
+        <h1>Gameplay</h1>
+    <p class="md">In Fisch u can catch fish, there are 186 obtainable fish.You can buy a lot of fishing rods, there are 41 rods,also there are alot of different bait:Bagel, Worm, Insect, Flakes, Maggot, Shrimp, Squid,
+    Seaweed, Magnet, Minnow, Coral, Super Flakes, Coal, Rapid Catcher, Truffle Worm, Weird Algae, Fish Head, Night Shrimp, Instant Catcher, Deep Coral.</p>
+    <h2>Boats</h2>
+    <p class="marker">In Fisch there are plently of boats: Rowboat, Bass Boat, Fishing Boat, Hovercraft, Jetski, Luxury Speedboat, Pontoon, Quack Cruiser(Rubber Ducky), Speedboat, Surfboard, Titan, Pirate Ship, The Pearl.</p>
+    <h3>Locations</h3>
+    <p class="marke">Thete are a lot of locations such as: Moosewood, Snowcap, Snowcap Pond, Statue of Sovereignty, Sunstone Island, Desolate Deep, Forsaken shores, Vertigo, The Depths, Terrapin Island, TheOcean,    
+    Mushgrove Swamp, Roslit Bay, Brine Pool and The Depth.</p>
+    <h4>Tips</h4>
+    <p class="mar">Sometimes jumping in a whirpool actualy worth it.
+     Do not swim for to long you might drown.
+     All fish has a chance to be shiny.
+     All fish has a chance to be mutated, it causes fish to cost more.</p>
+     <h5>Enchants</h5>
+     <table>
+<tr><td>Enchantment</td>	<td>Effect</td>	<td>Best Synergies</td></tr>
+<tr><td>Sea King</td>	<td>+10% Fish Size</td>	<td>Kings Rod</td></tr>
+<tr><td>Swift</td>	<td>+30% Lure Speed</td>	<td>Trident Rod, Rod of the Depths</td></tr>
+<tr><td>Hasty</td>	<td>+55% Lure Speed</td>	<td>Trident Rod, Rod of the Depths</td></tr>
+<tr><td>Long</td>	<td>+50 Line Distance</td>	<td>None, this enchant is 99.999% of the time completely useless</td></tr>
+<tr><td>Ghastly</td>	<td>20% chance for Translucent fish</td>	<td>Rods with low-no money making attributes</td></tr>
+<tr><td>Lucky</td>	<td>+20% Luck</td>	<td>Trident Rod, Kings Rod</td></tr>
+<tr><td>Divine</td>	<td>+45% Luck</td>	<td>Trident Rod, Kings Rod</td></tr>
+<tr><td>Mutated</td>	<td>+7% Mutation chance</td>	<td>Rods with low-no money making attributes</td></tr>
+<tr><td>Unbreakable</td>	<td>+10,000 Max kg</td>	<td>Rods with limited weight capacity</td></tr>
+<tr><td>Steady</td>	<td>-25% Progress Loss</td>	<td>Any rod used for Mythic Farming (not recommended for Steady Rod or Kings Rod)</td></tr>
+<tr><td>Blessed</td>	<td>+2% Shiny/Sparkling Chance</td>	<td>Rods with low-no money making attributes</td></tr>
+<tr><td>Wormhole</td>	<td>45% chance to catch Fish from a random location</td>	<td>Rod of the Depths</td></tr>
+<tr><td>Resilient</td>	<td>+35% Resilience</td>	<td>Any rod with low Resilience</td></tr>
+<tr><td>Controlled</td>	<td>+0.05 Control</td>	<td>Any rod with low control</td></tr>
+<tr><td>Storming</td>	<td>+95% Luck During Rain</td>	<td>Any rod with low luck</td></tr>
+<tr><td>Breezed</td><td>+65% Luck During Wind</td>	<td>Any rod with low luck</td></tr>
+<tr><td>Insight</td>	<td>x1.5 XP from all catches</td>	<td>Useful for faster rods (e.g. Rapid Rod)</td></tr>
+<tr><td>Scrapper</td>	<td>60% chance not to consume Bait</td>	<td>Can be used on any rod</td></tr>
+<tr><td>Noir</td>	<td>10% chance to fish Albino and Darkened Fish</td>	<td>Rods with low-no money making attributes</td></tr>
+<tr><td>Quality</td>	<td>+15% Lure Speed, +15% Luck, +5% Resilience</td>	<td>All-rounder rods (e.g. Trident Rod or Aurora Rod) where no specific stat is bad</td></tr>
+<tr><td>Abyssal</td>	<td>10% chance for fish to get the Abyssal effect, 80% chance for 1.3x fish's weight, 20% chance to 0.6x fish's weight</td>	<td>Best enchantment for increasing C$, good for all-rounder rods where stat boosts arent necessarily needed and where rod passive mutations wont clash significantly (No-Life Rod, Rod of the Depths, etc.)</td></tr>
+</table>
+    </main>
+    <footer>
+        <h1>More information</h1>
+        <a href="https://fisch.fandom.com/wiki/Fisch_Wiki">more information</a>
+        </footer>
+
+
+
+
+
+
+
+
+    </body>
+
+    </html>
